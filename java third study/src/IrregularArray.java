@@ -1,4 +1,4 @@
-
+//3-11
 public class IrregularArray {
 
 	public static void main(String[] args) {
@@ -23,3 +23,12 @@ public class IrregularArray {
 	}
 
 }
+
+/*
+ 
+10 11 12 
+20 21 
+30 31 32 
+40 41 
+
+*/
